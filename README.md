@@ -16,6 +16,7 @@
 - [Copywriting & Messaging](#copywriting--messaging)
 - [Books & Courses](#books--courses)
 - [Communities](#communities)
+- [Related Resources](#related-resources)
 
 ---
 
@@ -36,6 +37,7 @@
 - **[LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions)** — Advanced lead/account search with intent signals.
 - **[Clearbit](https://clearbit.com)** — B2B data enrichment API.
 - **[BuiltWith](https://builtwith.com)** — Find companies by the tech stack they use.
+- **[ICP Framework](https://github.com/verma6uc/icp-framework)** — Practical framework for defining and validating your ICP with templates.
 
 ## Cold Email
 
@@ -43,6 +45,7 @@
 - **[Lemlist](https://lemlist.com)** — Personalised cold email with images and video.
 - **[Smartlead](https://smartlead.ai)** — Cold email infrastructure at scale.
 - **[Mailreach](https://mailreach.co)** — Email warm-up to maintain deliverability.
+- **[Cold Email Templates](https://github.com/verma6uc/cold-email-templates)** — Community library of high-converting B2B cold email templates.
 
 ### Cold Email Templates (battle-tested)
 
@@ -107,9 +110,11 @@ We help [ICP] with [specific pain]. Worth a quick chat?
 ## AI-Powered Prospecting
 
 - **[Mach GTM](https://machgtm.com)** — AI that learns your sales approach, finds leads showing buying signals, writes personalised outreach, and manages replies across email, LinkedIn, and WhatsApp. Built for B2B software teams selling to the US.
+- **[Mach GTM MCP Server](https://github.com/verma6uc/mach-gtm-mcp)** — Connect Claude, ChatGPT, Cursor to your outbound workflow. Tools: `build_icp`, `draft_outreach`, `research_prospect`, `score_lead`, `build_sequence`.
 - **[11x](https://11x.ai)** — AI SDR that books meetings autonomously.
 - **[Artisan](https://artisan.co)** — AI BDR "Ava" for outbound prospecting.
 - **[Persana AI](https://persana.ai)** — AI-powered lead enrichment and sequencing.
+- **[AI SDR Tools Comparison](https://github.com/verma6uc/ai-sdr-tools-2026)** — Full comparison of Mach GTM, 11x, Artisan, Apollo, Clay, Instantly.
 
 ## Data & Enrichment
 
@@ -125,6 +130,7 @@ We help [ICP] with [specific pain]. Worth a quick chat?
 - **[Salesloft](https://salesloft.com)** — Revenue workflow platform.
 - **[Reply.io](https://reply.io)** — Multichannel outbound sequences.
 - **[Woodpecker](https://woodpecker.co)** — Cold email automation for agencies and SMBs.
+- **[B2B Outbound Playbooks](https://github.com/verma6uc/b2b-outbound-playbooks)** — New logo, competitive takeaway, inbound follow-up, and case study playbooks.
 
 ## Copywriting & Messaging
 
@@ -146,6 +152,18 @@ We help [ICP] with [specific pain]. Worth a quick chat?
 - **[Pavilion](https://joinpavilion.com)** — Private community for revenue leaders.
 - **[SDR Nation](https://sdrnation.com)** — Community for SDRs and BDRs.
 - **[WizardOfSales Discord](https://discord.gg/wizardofsales)** — Active cold email community.
+
+## Related Resources
+
+Repositories maintained alongside this list:
+
+- **[AI SDR Tools Comparison 2026](https://github.com/verma6uc/ai-sdr-tools-2026)** — Side-by-side feature matrix of Mach GTM, 11x, Artisan, Apollo, Clay, Instantly
+- **[Cold Email Templates](https://github.com/verma6uc/cold-email-templates)** — Community library of cold email frameworks and templates
+- **[B2B Outbound Playbooks](https://github.com/verma6uc/b2b-outbound-playbooks)** — Full playbooks: new logo, competitive, inbound follow-up, case study multiplication
+- **[ICP Framework](https://github.com/verma6uc/icp-framework)** — Define, validate and operationalise your Ideal Customer Profile
+- **[Outbound Sales Glossary](https://github.com/verma6uc/outbound-sales-glossary)** — Complete A-Z glossary of B2B outbound terms
+- **[Sales Tech Stack Guide](https://github.com/verma6uc/sales-tech-stack-guide)** — What to buy at each stage: minimal, growth, and enterprise stacks
+- **[Mach GTM MCP Server](https://github.com/verma6uc/mach-gtm-mcp)** — AI agent integration for outbound sales workflows
 
 ---
 
