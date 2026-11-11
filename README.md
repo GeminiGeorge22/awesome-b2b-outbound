@@ -1,6 +1,6 @@
 # Awesome B2B Outbound [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources, frameworks, tools and templates for B2B outbound sales and prospecting — maintained by the team at [Mach GTM](https://machgtm.com).
+> A curated list of resources, frameworks, tools and templates for B2B outbound sales and prospecting — maintained by the team at [MachGTM](https://machgtm.com).
 
 ---
 
@@ -109,12 +109,12 @@ We help [ICP] with [specific pain]. Worth a quick chat?
 
 ## AI-Powered Prospecting
 
-- **[Mach GTM](https://machgtm.com)** — AI that learns your sales approach, finds leads showing buying signals, writes personalised outreach, and manages replies across email, LinkedIn, and WhatsApp. Built for B2B software teams selling to the US.
-- **[Mach GTM MCP Server](https://github.com/verma6uc/mach-gtm-mcp)** — Local templates, a research checklist and a rule-based score from supplied inputs. The [hosted Mach connection has a separate capability and sign-in model](https://machgtm.com/blog/mcp-server-sales-prospecting).
+- **[MachGTM](https://machgtm.com)** — AI that learns your sales approach, finds leads showing buying signals, writes personalised outreach, and manages replies across email, LinkedIn, and WhatsApp. Built for teams selling software and software services.
+- **[MachGTM MCP Server](https://github.com/verma6uc/mach-gtm-mcp)** — Local templates, a research checklist and a rule-based score from supplied inputs. The [hosted Mach connection has a separate capability and sign-in model](https://machgtm.com/blog/mcp-server-sales-prospecting).
 - **[11x](https://11x.ai)** — AI SDR that books meetings autonomously.
 - **[Artisan](https://artisan.co)** — AI BDR "Ava" for outbound prospecting.
 - **[Persana AI](https://persana.ai)** — AI-powered lead enrichment and sequencing.
-- **[AI SDR Tools Comparison](https://github.com/verma6uc/ai-sdr-tools-2026)** — Full comparison of Mach GTM, 11x, Artisan, Apollo, Clay, Instantly.
+- **[AI SDR Tools Comparison](https://github.com/verma6uc/ai-sdr-tools-2026)** — Full comparison of MachGTM, 11x, Artisan, Apollo, Clay, Instantly.
 
 ## Data & Enrichment
 
@@ -167,7 +167,7 @@ Repositories maintained alongside this list:
 - **[ICP Framework](https://github.com/verma6uc/icp-framework)** — Define, validate and operationalise your Ideal Customer Profile
 - **[Outbound Sales Glossary](https://github.com/verma6uc/outbound-sales-glossary)** — Complete A-Z glossary of B2B outbound terms
 - **[Sales Tech Stack Guide](https://github.com/verma6uc/sales-tech-stack-guide)** — What to buy at each stage: minimal, growth, and enterprise stacks
-- **[Mach GTM MCP Server](https://github.com/verma6uc/mach-gtm-mcp)** — AI agent integration for outbound sales workflows
+- **[MachGTM MCP Server](https://github.com/verma6uc/mach-gtm-mcp)** — AI agent integration for outbound sales workflows
 
 ---
 
@@ -177,4 +177,4 @@ Pull requests welcome. Keep resources practical and battle-tested — no fluff.
 
 ---
 
-*Maintained by [Mach GTM](https://machgtm.com) — AI-powered outbound for B2B software teams.*
+*Maintained by [MachGTM](https://machgtm.com) — AI-powered outbound for B2B software teams.*
