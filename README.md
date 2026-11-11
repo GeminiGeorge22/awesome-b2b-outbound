@@ -45,9 +45,9 @@
 - **[Lemlist](https://lemlist.com)** — Personalised cold email with images and video.
 - **[Smartlead](https://smartlead.ai)** — Cold email infrastructure at scale.
 - **[Mailreach](https://mailreach.co)** — Email warm-up to maintain deliverability.
-- **[Cold Email Templates](https://github.com/verma6uc/cold-email-templates)** — Community library of high-converting B2B cold email templates.
+- **[Cold Email Templates](https://github.com/verma6uc/cold-email-templates)** — Library of B2B cold email frameworks and templates to adapt and evaluate.
 
-### Cold Email Templates (battle-tested)
+### Cold email templates to adapt
 
 **The Problem-Agitate-Solve:**
 ```
@@ -98,7 +98,7 @@ If you're evaluating options, happy to show you what they found.
 
 - Keep connection requests under 300 characters — no pitch.
 - Wait 2-3 days after connecting before messaging.
-- Use voice notes — 5x higher reply rate than text DMs.
+- Test whether voice notes suit the relationship and channel. Record replies from your own comparison.
 - **Message framework:** Relevance > Reason > Request.
 
 **Template:**
@@ -110,7 +110,7 @@ We help [ICP] with [specific pain]. Worth a quick chat?
 ## AI-Powered Prospecting
 
 - **[Mach GTM](https://machgtm.com)** — AI that learns your sales approach, finds leads showing buying signals, writes personalised outreach, and manages replies across email, LinkedIn, and WhatsApp. Built for B2B software teams selling to the US.
-- **[Mach GTM MCP Server](https://github.com/verma6uc/mach-gtm-mcp)** — Connect Claude, ChatGPT, Cursor to your outbound workflow. Tools: `build_icp`, `draft_outreach`, `research_prospect`, `score_lead`, `build_sequence`.
+- **[Mach GTM MCP Server](https://github.com/verma6uc/mach-gtm-mcp)** — Local templates, a research checklist and a rule-based score from supplied inputs. The [hosted Mach connection has a separate capability and sign-in model](https://machgtm.com/blog/mcp-server-sales-prospecting).
 - **[11x](https://11x.ai)** — AI SDR that books meetings autonomously.
 - **[Artisan](https://artisan.co)** — AI BDR "Ava" for outbound prospecting.
 - **[Persana AI](https://persana.ai)** — AI-powered lead enrichment and sequencing.
@@ -155,9 +155,13 @@ We help [ICP] with [specific pain]. Worth a quick chat?
 
 ## Related Resources
 
+- [Buying-signal study](https://machgtm.com/blog/buying-signals-one-real-run) — One search with 1,635 judged observations, 70 kept grades and explicit limits on human validation.
+- [Account research brief](https://machgtm.com/blog/software-services-account-research-brief) — A worked cloud-cost example and a blank worksheet.
+- [Email preflight](https://machgtm.com/blog/email-deliverability-preflight-sales-automation) — Evidence to retain from a controlled sending-route test.
+
 Repositories maintained alongside this list:
 
-- **[AI SDR Tools Comparison 2026](https://github.com/verma6uc/ai-sdr-tools-2026)** — Side-by-side feature matrix of Mach GTM, 11x, Artisan, Apollo, Clay, Instantly
+- **[AI SDR Tools Comparison 2026](https://github.com/verma6uc/ai-sdr-tools-2026)** — Billing-unit, workflow and pilot-evaluation guide
 - **[Cold Email Templates](https://github.com/verma6uc/cold-email-templates)** — Community library of cold email frameworks and templates
 - **[B2B Outbound Playbooks](https://github.com/verma6uc/b2b-outbound-playbooks)** — Full playbooks: new logo, competitive, inbound follow-up, case study multiplication
 - **[ICP Framework](https://github.com/verma6uc/icp-framework)** — Define, validate and operationalise your Ideal Customer Profile
